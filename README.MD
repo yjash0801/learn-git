@@ -1,2 +1,2 @@
 ### GIT
-This is the first commit from main branch
+This is the first commit from master branch
