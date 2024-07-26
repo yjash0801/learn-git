@@ -12,3 +12,4 @@ This is the first commit from master branch
 
 ### squash
 * started development
+* adding one more line
