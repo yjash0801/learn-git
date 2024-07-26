@@ -8,3 +8,4 @@ This is the first commit from master branch
 ### rebase
 * rebase is another merge strategy
 * development in progress
+* Now development is completed
