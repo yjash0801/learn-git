@@ -15,3 +15,6 @@ This is the first commit from master branch
 * adding one more line
 * adding 2nd line
 * completed
+
+### conflict
+* This from developer 1 and I want to keep thi line of code.
