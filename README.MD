@@ -18,4 +18,5 @@ This is the first commit from master branch
 
 ### conflict
 * This from developer 1 and I want to keep thi line of code.
-* I am developer 1 adding more code to the file.
+* I am developer 2 adding some features
+* I am developer 2 just now completed
